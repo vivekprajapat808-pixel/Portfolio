@@ -64,7 +64,7 @@ const Contact = () => {
       icon: FiGithub,
       label: "GitHub",
       value: "GitHub Profile",
-      href: portfolioConfig.github || null,
+      href: "https://github.com/vivekprajapat808-pixel",
     },
     {
       icon: FiLinkedin,
