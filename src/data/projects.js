@@ -26,7 +26,7 @@ const projects = [
     ],
     category: ["React", "JavaScript"],
     liveUrl: "https://stayindia-frontend.onrender.com",
-    githubUrl: "https://github.com/vivekprajapat808-pixel/StayIndia",
+    githubUrl: "",
   },
   {
     id: 2,
@@ -44,8 +44,8 @@ const projects = [
       "API integration with video data",
     ],
     category: ["React", "Redux", "JavaScript"],
-    liveUrl: "", // TODO: Add live demo URL
-    githubUrl: "", // TODO: Add GitHub repo URL
+    liveUrl: "https://youtube-clone-73b7.onrender.com",
+    githubUrl: "https://github.com/vivekprajapat808-pixel/YouTube_Clone",
   },
   {
     id: 3,
