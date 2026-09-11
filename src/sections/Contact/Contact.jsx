@@ -51,13 +51,13 @@ const Contact = () => {
     {
       icon: FiMail,
       label: "Email",
-      value: portfolioConfig.email || "your.email@example.com",
+      value: portfolioConfig.email || "vivekprajapat808@gmail.com",
       href: portfolioConfig.email ? `mailto:${portfolioConfig.email}` : null,
     },
     {
       icon: FiPhone,
       label: "Phone",
-      value: portfolioConfig.phone || "+91 XXXXX XXXXX",
+      value: portfolioConfig.phone || "+91 8570979132",
       href: portfolioConfig.phone ? `tel:${portfolioConfig.phone}` : null,
     },
     {
