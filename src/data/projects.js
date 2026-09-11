@@ -25,7 +25,7 @@ const projects = [
       "Dynamic data fetching",
     ],
     category: ["React", "JavaScript"],
-    liveUrl: "https://stayindia-zee2.onrender.com",
+    liveUrl: "https://stayindia-frontend.onrender.com",
     githubUrl: "https://github.com/vivekprajapat808-pixel/StayIndia",
   },
   {
