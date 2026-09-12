@@ -62,30 +62,30 @@ const projects = [
       "Responsive business layout",
     ],
     category: ["React", "JavaScript"],
-    liveUrl: "", // TODO: Add live demo URL
-    githubUrl: "", // TODO: Add GitHub repo URL
+    liveUrl: "https://sai-hydraluics.onrender.com", // TODO: Add live demo URL
+    githubUrl: "https://github.com/vivekprajapat808-pixel/Sai_hydraluics", // TODO: Add GitHub repo URL
   },
-  {
-    id: 4,
-    title: "BookVerse",
-    description:
-      "A book discovery and management web application where users can browse, search, and explore books. Features a clean reading-friendly interface.",
-    shortDescription: "Book discovery and management web application.",
-    image: "", // TODO: e.g. "/projects/bookverse.png"
-    technologies: ["React", "JavaScript", "CSS", "REST API"],
-    features: [
-      "Book browsing and search",
-      "Book details and descriptions",
-      "Category-based filtering",
-      "Responsive reading interface",
-    ],
-    category: ["React", "JavaScript"],
-    liveUrl: "", // TODO: Add live demo URL
-    githubUrl: "", // TODO: Add GitHub repo URL
-  },
+  // {
+  //   id: 4,
+  //   title: "BookVerse",
+  //   description:
+  //     "A book discovery and management web application where users can browse, search, and explore books. Features a clean reading-friendly interface.",
+  //   shortDescription: "Book discovery and management web application.",
+  //   image: "", // TODO: e.g. "/projects/bookverse.png"
+  //   technologies: ["React", "JavaScript", "CSS", "REST API"],
+  //   features: [
+  //     "Book browsing and search",
+  //     "Book details and descriptions",
+  //     "Category-based filtering",
+  //     "Responsive reading interface",
+  //   ],
+  //   category: ["React", "JavaScript"],
+  //   liveUrl: "", // TODO: Add live demo URL
+  //   githubUrl: "", // TODO: Add GitHub repo URL
+  // },
   {
     id: 5,
-    title: "Task Manager",
+    title: "TaskFlow",
     description:
       "A task management application for organizing and tracking daily tasks. Supports creating, editing, completing and deleting tasks with a clean, intuitive interface.",
     shortDescription: "Task management app for organizing daily tasks.",
@@ -98,27 +98,27 @@ const projects = [
       "Persistent task storage",
     ],
     category: ["React", "Redux", "JavaScript"],
-    liveUrl: "", // TODO: Add live demo URL
-    githubUrl: "", // TODO: Add GitHub repo URL
+    liveUrl: "https://taskflow-rgqm.onrender.com", // TODO: Add live demo URL
+    githubUrl: "https://github.com/vivekprajapat808-pixel/TaskFlow", // TODO: Add GitHub repo URL
   },
-  {
-    id: 6,
-    title: "Calculator",
-    description:
-      "A clean, functional calculator application with standard arithmetic operations. Features a modern UI with keyboard support and calculation history.",
-    shortDescription: "Modern calculator with clean UI and keyboard support.",
-    image: "", // TODO: e.g. "/projects/calculator.png"
-    technologies: ["React", "JavaScript", "CSS"],
-    features: [
-      "Standard arithmetic operations",
-      "Clean and modern UI",
-      "Keyboard support",
-      "Responsive design",
-    ],
-    category: ["React", "JavaScript"],
-    liveUrl: "", // TODO: Add live demo URL
-    githubUrl: "", // TODO: Add GitHub repo URL
-  },
+  // {
+  //   id: 6,
+  //   title: "Calculator",
+  //   description:
+  //     "A clean, functional calculator application with standard arithmetic operations. Features a modern UI with keyboard support and calculation history.",
+  //   shortDescription: "Modern calculator with clean UI and keyboard support.",
+  //   image: "", // TODO: e.g. "/projects/calculator.png"
+  //   technologies: ["React", "JavaScript", "CSS"],
+  //   features: [
+  //     "Standard arithmetic operations",
+  //     "Clean and modern UI",
+  //     "Keyboard support",
+  //     "Responsive design",
+  //   ],
+  //   category: ["React", "JavaScript"],
+  //   liveUrl: "", // TODO: Add live demo URL
+  //   githubUrl: "", // TODO: Add GitHub repo URL
+  // },
 ];
 
 // Filter categories derived from project data
