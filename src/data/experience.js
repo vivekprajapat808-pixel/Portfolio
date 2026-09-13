@@ -8,21 +8,21 @@
 const experiences = [
   {
     id: 1,
-    company: "Your Company Name", // TODO: Replace with actual company
-    position: "Frontend Developer Intern", // TODO: Update if needed
-    duration: "Month Year – Month Year", // TODO: e.g. "Jan 2025 – Jun 2025"
-    location: "City, India", // TODO: Replace with actual location
+    company: "Trigya Innovations India Pvt. Ltd",
+    position: "React.js Frontend Intern",
+    duration: "2 Months",
+    location: "Remote/India",
     description:
-      "Worked on building and maintaining frontend features using React.js and modern web technologies. Collaborated with the development team to deliver responsive, user-friendly interfaces.",
+      "Worked on UI development based on design requirements and improved overall user experience across different screen sizes.",
     responsibilities: [
-      "Developed responsive UI components using React.js", // TODO: Update
-      "Implemented state management with Redux Toolkit", // TODO: Update
-      "Collaborated with backend team for REST API integration", // TODO: Update
-      "Participated in code reviews and agile development processes", // TODO: Update
+      "Developed responsive and user-friendly web applications using React.js, JavaScript, HTML5, and CSS3.",
+      "Created reusable React components and implemented state management for interactive UI features.",
+      "Integrated frontend applications with REST APIs to fetch, display, and manage dynamic data.",
+      "Debugged and resolved frontend issues while collaborating with the development team.",
+      "Used Git/GitHub for version control and participated in the software development workflow."
     ],
-    technologies: ["React.js", "Redux", "JavaScript", "CSS", "REST APIs"],
+    technologies: ["React.js", "JavaScript", "HTML5", "CSS3", "REST APIs", "Git", "GitHub"],
   },
-  // Add more experiences below by copying the object above
 ];
 
 export default experiences;

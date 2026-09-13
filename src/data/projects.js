@@ -11,18 +11,18 @@
 const projects = [
   {
     id: 1,
-    title: "StayIndia",
+    title: "StayIndia – Hotel Booking Platform",
     description:
-      "A full-featured accommodation and travel platform for browsing properties across India. Users can explore listings, view details, and find the perfect stay for their trips.",
+      "A fully responsive React frontend for a hotel booking platform, letting users search, view, and book hotel rooms.",
     shortDescription:
-      "Accommodation & travel platform for browsing properties across India.",
+      "Hotel Booking Platform with search and book functionalities.",
     image: "", // TODO: e.g. "/projects/stayindia.png"
-    technologies: ["React", "JavaScript", "CSS", "REST API"],
+    technologies: ["React", "CSS", "Axios", "Clerk", "Cloudinary"],
     features: [
-      "Property listing and browsing",
-      "Search and filter functionality",
-      "Responsive design for all devices",
-      "Dynamic data fetching",
+      "Responsive React frontend for hotel booking",
+      "Clerk authentication and payment flows",
+      "REST APIs with Axios for dynamic data",
+      "Cloudinary-hosted image rendering",
     ],
     category: ["React", "JavaScript"],
     liveUrl: "https://stayindia-frontend.onrender.com",
@@ -32,38 +32,38 @@ const projects = [
     id: 2,
     title: "YouTube Clone",
     description:
-      "A YouTube-inspired video browsing application that replicates core YouTube features. Users can search for videos, browse channels, and watch content with a familiar interface.",
+      "Built a frontend clone with video feed, search, playback, suggested videos, and category navigation using a third-party API.",
     shortDescription:
       "YouTube-inspired application with video browsing functionality.",
     image: "", // TODO: e.g. "/projects/youtube-clone.png"
-    technologies: ["React", "Redux", "JavaScript", "REST API", "CSS"],
+    technologies: ["React", "Context API", "React Router", "Third-Party Video API"],
     features: [
-      "Video search and browsing",
-      "Channel pages",
-      "Responsive video player",
-      "API integration with video data",
+      "Video feed, search, and playback",
+      "Third-party API integration for live content",
+      "Shimmer loading and error handling",
+      "Context API & React Router for state/navigation",
     ],
-    category: ["React", "Redux", "JavaScript"],
+    category: ["React", "JavaScript"],
     liveUrl: "https://youtube-clone-73b7.onrender.com",
     githubUrl: "https://github.com/vivekprajapat808-pixel/YouTube_Clone",
   },
   {
     id: 3,
-    title: "Sai Hydraulics",
+    title: "Sai Hydraulics – JCB Spare Parts E-Commerce",
     description:
-      "A professional business website for Sai Hydraulics, showcasing their services, products, and company information with a clean, modern design.",
-    shortDescription: "Professional business website for a hydraulics company.",
+      "Developed a responsive frontend covering product catalog, categories, cart, wishlist, and orders.",
+    shortDescription: "JCB Spare Parts E-Commerce Platform.",
     image: "", // TODO: e.g. "/projects/sai-hydraulics.png"
-    technologies: ["React", "JavaScript", "CSS"],
+    technologies: ["React", "CSS", "Axios"],
     features: [
-      "Company information pages",
-      "Product/service showcase",
-      "Contact form",
+      "Product catalog, cart, and wishlist",
+      "REST API integration for authentication and orders",
+      "Reusable UI components for listings and filters",
       "Responsive business layout",
     ],
     category: ["React", "JavaScript"],
-    liveUrl: "https://sai-hydraluics.onrender.com", // TODO: Add live demo URL
-    githubUrl: "https://github.com/vivekprajapat808-pixel/Sai_hydraluics", // TODO: Add GitHub repo URL
+    liveUrl: "https://sai-hydraluics.onrender.com",
+    githubUrl: "https://github.com/vivekprajapat808-pixel/Sai_hydraluics",
   },
   // {
   //   id: 4,
